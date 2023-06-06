@@ -1,0 +1,11 @@
+{
+    "name": "mdtohin/php_crud",
+    "description": "PHP CRUD operations",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "require": {}
+}
